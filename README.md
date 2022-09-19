@@ -23,10 +23,10 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/watch?v=RPVeQ0LUZy8" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/isadora.ferrao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "isadoraferrao@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isadora-ferrao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/watch?v=RPVeQ0LUZy8" target="_blank"><img src="https://img.shields.io/badge/YouTube-0000CD?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/isadora.ferrao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0000CD?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "isadoraferrao@usp.br"><img src="https://img.shields.io/badge/-Gmail-0000CD?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/isadora-ferrao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0000CD?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   <a href="https://www.freepik.com/free-photo/coffee_1271492.htm" target="_blank"><img src="https://github.com/IsadoraFerrao/IsadoraFerrao/blob/main/default-red.png" alt="Free coffee for visitors" style="height: 40px !important;width: 150px !important;" ></a>
   
