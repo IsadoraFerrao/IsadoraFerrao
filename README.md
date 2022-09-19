@@ -1,8 +1,9 @@
 ## 🚀 Computer scientist passionate about technology 👩‍💻
 <div align="center">
   <a href="https://github.com/IsadoraFerrao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsadoraFerrao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraFerrao&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsadoraFerrao&show_icons=true&theme=highcontrast&include_all_commits=true&title_color=pink&count_private=true"/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraFerrao&layout=compact&&title_color=pink&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -16,7 +17,7 @@
   <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/IsadoraFerrao/IsadoraFerrao/blob/main/Publicacoes_Instagram_1_1.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/IsadoraFerrao/IsadoraFerrao/blob/main/perfil.png">
 </div>
   
   ##
