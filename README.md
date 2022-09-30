@@ -31,5 +31,5 @@
   <a href="https://www.freepik.com/free-photo/coffee_1271492.htm" target="_blank"><img src="https://github.com/IsadoraFerrao/IsadoraFerrao/blob/main/coffee.png" alt="Free coffee for visitors" style="height: 40px !important;width: 150px !important;" ></a>
   
   ![Snake animation](https://github.com/IsadoraFerrao/IsadoraFerrao/blob/main/snake.svg)
- 
+
 </div>
