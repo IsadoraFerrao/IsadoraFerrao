@@ -18,7 +18,7 @@
 
 
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/IsadoraFerrao/IsadoraFerrao/blob/main/perfil.png">
-</div>
+</div> 
   
   ##
  
