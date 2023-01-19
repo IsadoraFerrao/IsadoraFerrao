@@ -1,10 +1,10 @@
 ## 🚀 Computer scientist passionate about technology 👩‍💻
 <div align="center">
   <a href="https://github.com/IsadoraFerrao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsadoraFerrao&show_icons=true&theme=highcontrast&include_all_commits=true&title_color=pink&count_private=true"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsadoraFerrao&show_icons=true&theme=highcontrast&include_all_commits=true&title_color=pink&count_private=true"/>
      
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraFerrao&layout=compact&&title_color=pink&theme=highcontrast"/>
-</div>
+</div>-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
