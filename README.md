@@ -24,7 +24,7 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/IsadoraFerrao/IsadoraFerrao/blob/main/perfil.png">
 </div> 
  
-  ##
+  ##  
 <div> 
   <a href="https://www.youtube.com/watch?v=RPVeQ0LUZy8" target="_blank"><img src="https://img.shields.io/badge/YouTube-0000CD?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/isadora.ferrao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0000CD?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
